@@ -1,3 +1,6 @@
+import interact from 'interactjs'
+
+
 var angleScale = {
   angle: 0,
   scale: 1
